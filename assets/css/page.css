@@ -1,0 +1,7 @@
+body { background-color: #f2f1ec; }
+.center { text-align: center; }
+.margin-top-100 { margin-top: 100px; }
+.margin-top-50 { margin-top: 50px; }
+.margin-bottom-100 { margin-bottom: 100px; }
+.heading h1 { font-size: 5em; }
+.footer { position: fixed; bottom: 0; width :100%; font-size: 0.8em; padding: 10px; }
